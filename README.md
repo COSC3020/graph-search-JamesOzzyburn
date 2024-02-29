@@ -30,3 +30,7 @@ answer, including your reasoning, to this markdown file.
 ## Bonus
 
 Implement and analyze breadth-first search.
+
+
+## Answer
+I think that the worst case big $\Theta$ complexity for my implementation is $\Theta(V + E)$ where $V$ is the verticies and $E$ is the edges. I believe this because in the worst case we look at every verticie and every edge and we only look at them once so thats why we add them together.
